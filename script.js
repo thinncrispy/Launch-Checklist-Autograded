@@ -1,7 +1,5 @@
 // Write your JavaScript code here!
 
-// const { addDestinationInfo } = require("./scriptHelper");
-
 window.addEventListener("load", function() {
 
     let listedPlanets;
